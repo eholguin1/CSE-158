@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# But keep these specific files
+!applications.csv
+!assignment2_notebook.ipynb
+!README.md
+
+# Keep the .gitignore itself
+!.gitignore
